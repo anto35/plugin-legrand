@@ -1,0 +1,29 @@
+{
+    "plugins\/legrandeco\/desktop\/php\/legrandeco.php": {
+        "Ajouter un équipement": "Gerät hinzufügen",
+        "Rechercher": "Suchen",
+        "Mes legrandeco": "Mein LegrandEco",
+        "Sauvegarder": "Speichern",
+        "Supprimer": "Löschen",
+        "Configuration avancée": "Erweiterte Konfiguration",
+        "Equipement": "Gerät",
+        "Commandes": "Befehle",
+        "Nom du compteur": "Zähler Name",
+        "Nom de l'équipement legrandeco": " LegrandEco Gerätename",
+        "Objet parent": "Elternobjekt",
+        "Aucun": "Keine",
+        "Catégorie": "Kategorie",
+        "Activer": "Aktivieren",
+        "Visible": "Sichtbar",
+        "Commentaire": "Kommentar",
+        "Adresse IP": "IP Adresse",
+        "Nom": "Name",
+        "Valeur": "Wert",
+        "Paramètres": "Parameter"
+    },
+    "plugins\/legrandeco\/desktop\/js\/legrandeco.js": {
+        "Nom du capteur": "Sensor Name",
+        "Historiser": "Archivieren",
+        "Afficher": "Anzeigen"
+    }
+}

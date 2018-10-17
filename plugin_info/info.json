@@ -1,0 +1,13 @@
+{
+	"id" : "legrandeco",
+	"name" : "Ecocompteur Legrand",
+	"description" : "L'écocompteur Legrand est un appareil qui se branche en rail-din idéal pour le tableau électrique. Equipé d'une prise réseau, il permet de consulter vos consommations et maintenant de les récupérer dans Jeedom. 5 groupes de relevés électriques et 2 compteurs impulsion.",
+	"licence" : "AGPL",
+	"author" : "lunarok",
+	"require" : "2.4",
+	"category" : "energy",
+	"language" : ["fr_FR","en_US"],
+	"compatibility" : ["miniplus","smart","rpi","docker","diy","mobile"],
+    "changelog" : "https://lunarok.github.io/jeedom_docs/plugins/legrandeco/changelog.html",
+    "documentation" : "https://lunarok.github.io/jeedom_docs/plugins/legrandeco/"
+}

@@ -1,0 +1,29 @@
+{
+    "plugins\/legrandeco\/desktop\/php\/legrandeco.php": {
+        "Ajouter un équipement": "Ajouter un équipement",
+        "Rechercher": "Rechercher",
+        "Mes legrandeco": "Mes legrandeco",
+        "Sauvegarder": "Sauvegarder",
+        "Supprimer": "Supprimer",
+        "Configuration avancée": "Configuration avancée",
+        "Equipement": "Equipement",
+        "Commandes": "Commandes",
+        "Nom du compteur": "Nom du compteur",
+        "Nom de l'équipement legrandeco": "Nom de l'équipement legrandeco",
+        "Objet parent": "Objet parent",
+        "Aucun": "Aucun",
+        "Catégorie": "Catégorie",
+        "Activer": "Activer",
+        "Visible": "Visible",
+        "Commentaire": "Commentaire",
+        "Adresse IP": "Adresse IP",
+        "Nom": "Nom",
+        "Valeur": "Valeur",
+        "Paramètres": "Paramètres"
+    },
+    "plugins\/legrandeco\/desktop\/js\/legrandeco.js": {
+        "Nom du capteur": "Nom du capteur",
+        "Historiser": "Historiser",
+        "Afficher": "Afficher"
+    }
+}

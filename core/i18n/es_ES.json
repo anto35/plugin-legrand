@@ -1,0 +1,29 @@
+{
+    "plugins\/legrandeco\/desktop\/php\/legrandeco.php": {
+        "Ajouter un équipement": "Agregar un dispositivo",
+        "Rechercher": "Buscar",
+        "Mes legrandeco": "Mis legrandeco",
+        "Sauvegarder": "Guardar",
+        "Supprimer": "Borrar",
+        "Configuration avancée": "Configuración avanzada",
+        "Equipement": "Dispositivo",
+        "Commandes": "Comandos",
+        "Nom du compteur": "Nombre del contador",
+        "Nom de l'équipement legrandeco": "Nombre del dispositivo legrandeco",
+        "Objet parent": "Objeto padre",
+        "Aucun": "Ninguno",
+        "Catégorie": "Categoría",
+        "Activer": "Activar",
+        "Visible": "Visible",
+        "Commentaire": "Comentario",
+        "Adresse IP": "Dirección IP",
+        "Nom": "Nombre",
+        "Valeur": "Valor",
+        "Paramètres": "Parámetros"
+    },
+    "plugins\/legrandeco\/desktop\/js\/legrandeco.js": {
+        "Nom du capteur": "Nombre del sensor",
+        "Historiser": "Historizar",
+        "Afficher": "Mostrar"
+    }
+}
