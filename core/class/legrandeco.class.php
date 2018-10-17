@@ -39,14 +39,14 @@ class legrandeco extends eqLogic {
   }
 
   public function checkCmdOk($_type, $_name, $_template) {
-    $legrandecoCmd = legrandecoCmd::byEqLogicIdAndLogicalId($this->getId(),$_type . '-' . $_name);
+    $legrandecoCmd = legrandecoCmd::byEqLogicIdAndLogicalId($this->getId(),$_name);
     if (!is_object($legrandecoCmd)) {
       log::add('stock', 'debug', 'Création de la commande ' . $_name);
       $legrandecoCmd = new legrandecoCmd();
       $legrandecoCmd->setName(__($_type . ' - ' . $_name, __FILE__));
       $legrandecoCmd->setEqLogic_id($this->getId());
       $legrandecoCmd->setEqType('legrandeco');
-      $legrandecoCmd->setLogicalId($_type . '-' . $_name);
+      $legrandecoCmd->setLogicalId($_name);
       $legrandecoCmd->setType('info');
       $legrandecoCmd->setSubType('numeric');
       $legrandecoCmd->setIsVisible('1');
